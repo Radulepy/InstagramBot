@@ -19,5 +19,5 @@ Instagram AUTO Like and Comment Python BOT
 
 # How to run the Python script ?
 - Enter CMD ->
-- > Run: python [path]\instagramBot.py
-- > example: python C:\Users\Name\Desktop\instagramBot.py
+- Run: > python [path]\instagramBot.py
+- Example: > python C:\Users\Name\Desktop\instagramBot.py
