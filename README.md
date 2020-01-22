@@ -26,4 +26,4 @@ AIM: Get Your Instagram User Interaction and potentially gain likes + followers 
 - Example: 
 > python C:\Users\Name\Desktop\instagramBot.py
 
-## If you have problems with your internet connection please increase the sleep size !!
+# If you have problems with your internet connection please increase the sleep size !!
