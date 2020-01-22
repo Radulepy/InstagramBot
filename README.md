@@ -16,3 +16,8 @@ Instagram AUTO Like and Comment Python BOT
 # What you need to change ?
 - You will need to change your Instagram Credentials in the script.
 - You will need to change your chromedriver.exe absolute path.
+
+# How to run the Python script ?
+- Enter CMD ->
+- > Run: python [path]\instagramBot.py
+- example: python C:\Users\Name\Desktop\instagramBot.py
