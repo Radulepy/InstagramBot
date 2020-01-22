@@ -16,8 +16,8 @@ AIM: Get Your Instagram User Interaction and potentially gain likes + followers 
 - **Be sure to download the same version of chromedriver as your Google Chrome BROWSER**
 
 # What you need to change ?
-- You will need to change your Instagram Credentials in the script.
-- You will need to change your chromedriver.exe absolute path.
+- You will need to change your Instagram Credentials in the script. **(LINE 61 and 63)**
+- You will need to change your chromedriver.exe absolute path. **(LINE 21)**
 
 # How to run the Python script ?
 - Enter CMD 
