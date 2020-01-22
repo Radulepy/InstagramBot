@@ -1,7 +1,7 @@
 # InstagramBot
 Instagram AUTO Like and Comment Python BOT 
 
-AIM: Get Your Instagram User Interaction and potentially gain likes + followers :) 
+AIM: Gain Your Instagram User Interaction and potentially gain likes + followers :) 
 
 ## This is an instagram Like and Comment BOT. 
 
