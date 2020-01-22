@@ -18,7 +18,7 @@ comments = [' I am a robotttt', 'Nice ', 'loool very nice! ', 'I like it!', 'Sup
 posts=0
 
 #Chromedriver path. Make sure to have the same Chromedriver version as your Google Chrome browser
-browser = webdriver.Chrome(executable_path=r "C:\Users\Lepy\Name\python\chromedriver.exe")  # <----- ENTER PATH HERE 
+browser = webdriver.Chrome(executable_path=r "C:\Users\Name\Desktop\python\chromedriver.exe")  # <----- ENTER PATH HERE 
 
 browser.get(('https://www.instagram.com/accounts/login/?source=auth_switcher'))
 sleep(2) 
