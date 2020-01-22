@@ -1,7 +1,7 @@
 #----------------------------
 #							|
-# Instagram Bot - Lepy		|
-# learn.lepystudio.ro		|
+# Instagram Bot - Lepy					|
+# learn.lepystudio.ro					|
 #							|
 #----------------------------
 
