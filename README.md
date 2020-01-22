@@ -1,5 +1,7 @@
 # InstagramBot
-Instagram AUTO Like and Comment Python BOT
+Instagram AUTO Like and Comment Python BOT 
+
+AIM: Get Your Instagram User Interaction and potentially gain likes + followers :) 
 
 ## This is an instagram Like and Comment BOT. 
 
@@ -18,7 +20,7 @@ Instagram AUTO Like and Comment Python BOT
 - You will need to change your chromedriver.exe absolute path.
 
 # How to run the Python script ?
-- Enter CMD ->
+- Enter CMD 
 - Run: 
 > python [path]\instagramBot.py
 - Example: 
