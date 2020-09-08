@@ -27,3 +27,5 @@ AIM: Gain Your Instagram User Interaction and potentially gain likes + followers
 > python C:\Users\Name\Desktop\instagramBot.py
 
 # If you have problems with your internet connection please increase the sleep size !!
+
+# Please take in consideration that Instagram is updating its Website regularly and thus could make the code throw errors. If any error encountered please open an new issue request
