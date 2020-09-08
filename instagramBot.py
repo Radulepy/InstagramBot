@@ -65,7 +65,7 @@ def start():
 	username.send_keys('rodruino') # <- INSERT YOUR INSTAGRAM USERNAME HERE -------------------------------------------------------------------------------------------------------------------------
 	password = browser.find_element_by_name('password')
 	password.send_keys('Lepadatu@7') # <- INSERT YOUR INSTAGRAM PASSWORD HERE -----------------------------------------------------------------------------------------------------------------------
-	nextButton = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/article/div/div[1]/div/form/div[4]/button')
+	nextButton = browser.find_element_by_xpath('/html/body/div[1]/section/main/div/article/div/div[1]/div/form/div/div[3]/button	')
 	nextButton.click()
 	#browser.quit()
 	sleep(4)
