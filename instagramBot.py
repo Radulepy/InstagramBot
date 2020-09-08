@@ -62,9 +62,9 @@ def likeAndComm(): # Likes and Comments the first 9 posts
 def start():
 	#browser.implicitly_wait(3)  #this is another wait function.If you would like to run the script faster, change all sleep() to this
 	username = browser.find_element_by_name('username')
-	username.send_keys('rodruino') # <- INSERT YOUR INSTAGRAM USERNAME HERE -------------------------------------------------------------------------------------------------------------------------
+	username.send_keys('YourInstagramUsername') # <- INSERT YOUR INSTAGRAM USERNAME HERE -------------------------------------------------------------------------------------------------------------------------
 	password = browser.find_element_by_name('password')
-	password.send_keys('Lepadatu@7') # <- INSERT YOUR INSTAGRAM PASSWORD HERE -----------------------------------------------------------------------------------------------------------------------
+	password.send_keys('YourInstagramPassword') # <- INSERT YOUR INSTAGRAM PASSWORD HERE -----------------------------------------------------------------------------------------------------------------------
 	nextButton = browser.find_element_by_xpath('/html/body/div[1]/section/main/div/article/div/div[1]/div/form/div/div[3]/button	')
 	nextButton.click()
 	#browser.quit()
