@@ -10,9 +10,10 @@ AIM: Gain Your Instagram User Interaction and potentially gain likes + followers
 - The bot will refresh the explore page after 12 likes.
 
 
-# What you need to run ?
+# Requirements
 - You will need the same version of chromedriver: (DOWNLOAD FROM HERE) https://chromedriver.chromium.org/downloads
 - To check your Google Chrome version go to top right corner (settings) -> Help -> About Google Chrome.
+
 - **Be sure to download the same version of chromedriver as your Google Chrome BROWSER**
 
 # What you need to change ?
