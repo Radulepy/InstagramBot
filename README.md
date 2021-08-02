@@ -1,6 +1,6 @@
 
   
-![](https://img.shields.io/badge/author-Radu%20Lepadatu-brightgreen) ![](https://img.shields.io/badge/language-Python-brightgreen) ![](https://img.shields.io/badge/license-MIT-brightgreen)
+![](https://img.shields.io/badge/author-Radu%20Lepadatu-brightgreen) ![](https://img.shields.io/badge/language-Python-brightgreen) ![](https://img.shields.io/github/issues/Radulepy/InstagramBot) ![](https://img.shields.io/github/forks/Radulepy/InstagramBot) ![](https://img.shields.io/github/stars/Radulepy/InstagramBot) ![](https://img.shields.io/github/license/Radulepy/InstagramBot)
 
 # InstagramBot
 Instagram AUTO Like and Comment Python BOT 
