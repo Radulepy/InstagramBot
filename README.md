@@ -1,3 +1,7 @@
+
+  
+![](https://img.shields.io/badge/author-Radu%20Lepadatu-brightgreen) ![](https://img.shields.io/badge/language-Python-brightgreen) ![](https://img.shields.io/badge/license-MIT-brightgreen)
+
 # InstagramBot
 Instagram AUTO Like and Comment Python BOT 
 
