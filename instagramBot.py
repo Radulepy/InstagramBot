@@ -59,7 +59,7 @@ def likeAndComm(): # Likes and Comments the first 9 posts
 	
 		
 def start():
-	acceptCookies = browser.find_element_by_xpath('/html/body/div[2]/div/div/div/div[2]/button[1]');
+	acceptCookies = browser.find_element_by_xpath('/html/body/div[4]/div/div/button[1]');
 	acceptCookies.click();
 	sleep(4);
 	#browser.implicitly_wait(3)  #this is another wait function.If you would like to run the script faster, change all sleep() to this
