@@ -2,7 +2,7 @@
 #							|
 # Instagram Bot - RaduLepy	|
 #https://github.com/Radulepy/InstagramBot
-# UPDATE: 17.04.2021		|
+# UPDATE: 21.01.2022		|
 #----------------------------
 
 from selenium import webdriver
@@ -31,23 +31,23 @@ def likeAndComm(): # Likes and Comments the first 9 posts
 			browser.implicitly_wait(1) 
 			post.click()
 			sleep(2)
-			postLike = browser.find_element_by_xpath('/html/body/div[5]/div[2]/div/article/div[3]/section[1]/span[1]/button').click()
+			postLike = browser.find_element_by_xpath('/html/body/div[6]/div[3]/div/article/div/div[2]/div/div/div[2]/section[1]/span[1]/button').click()
 			#postLike.click() 
 			sleep(2)
 			#comment = browser.find_element_by_xpath('/html/body/div[4]/div[2]/div/article/div[3]/section[3]/div/form').click() 
 			print("click1")
 			sleep(3)
-			comment = browser.find_element_by_xpath('/html/body/div[5]/div[2]/div/article/div[3]/section[3]/div/form/textarea').click() 
+			comment = browser.find_element_by_xpath('/html/body/div[6]/div[3]/div/article/div/div[2]/div/div/div[2]/section[3]/div/form/textarea').click() 
 			print("click2")
-			comment = browser.find_element_by_xpath('/html/body/div[5]/div[2]/div/article/div[3]/section[3]/div/form/textarea').send_keys(random.choice(comments))	
+			comment = browser.find_element_by_xpath('/html/body/div[6]/div[3]/div/article/div/div[2]/div/div/div[2]/section[3]/div/form/textarea').send_keys(random.choice(comments))	
 			print("send1")
 			sleep(3)
-			sendComment = browser.find_element_by_xpath('/html/body/div[5]/div[2]/div/article/div[3]/section[3]/div/form/button[2]') 
+			sendComment = browser.find_element_by_xpath('/html/body/div[6]/div[3]/div/article/div/div[2]/div/div/div[2]/section[3]/div/form/button[2]') 
 			sendComment.click()
 			print("click3")
 			sleep(4)
 			posts+=1
-			closePost=browser.find_element_by_xpath('/html/body/div[5]/div[3]/button')
+			closePost=browser.find_element_by_xpath('/html/body/div[6]/div[1]/button')
 			closePost.click()
 			sleep(3)
 		print ('Nr. of posts: ' +str(posts))
